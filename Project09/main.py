@@ -17,3 +17,4 @@ while auction:
     if continueAuction == "no":
         getHigherBid(bidDictionary)
         auction = False
+
